@@ -1,0 +1,9 @@
+[submodule "rustlings"]
+	path = rustlings
+	url = git@github.com:VV0JC13CH/rustlings.git
+[submodule "exercism"]
+	path = exercism
+	url = git@github.com:VV0JC13CH/exercism.git
+[submodule "leetcode"]
+	path = leetcode
+	url = git@github.com:VV0JC13CH/leetcode.git
